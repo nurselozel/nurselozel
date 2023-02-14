@@ -9,4 +9,4 @@ Skills: Python, SQL, PowerBI, Docker
 - 🌱 I’m currently learning PowerBI, Power Pivot and Power Query. 
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQONxUOMJheugtbehg8wTc_ywdWwmnXWS08v7-hf1dAReZJRYnbZCfyOVlx6cQcA2JVOsY&usqp=CAU)' alt='github' height='40'>](https://github.com/nurselozel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nursel-ozel/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurselozel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nursel-ozel/)  
