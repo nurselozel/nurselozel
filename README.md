@@ -10,4 +10,4 @@ Skills: Python, SQL, PowerBI, Docker
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='ıg'>](https://github.com/nurselozel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/nursel-ozel/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='ıg'>](https://github.com/nurselozel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/nursel-ozel/)  
